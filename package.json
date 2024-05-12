@@ -1,0 +1,15 @@
+{
+  "name": "di-experiment",
+  "private": true,
+  "scripts": {
+    "start": "node dist/src/index.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.11",
+    "awilix": "^10.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
